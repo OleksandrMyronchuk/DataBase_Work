@@ -1,0 +1,16 @@
+C:\Users\myronchuk-oo\documents\visual studio 2015\Projects\DataBase Work\DataBase Work\bin\Debug\DataBase Work.exe.config
+C:\Users\myronchuk-oo\documents\visual studio 2015\Projects\DataBase Work\DataBase Work\bin\Debug\DataBase Work.exe
+C:\Users\myronchuk-oo\documents\visual studio 2015\Projects\DataBase Work\DataBase Work\bin\Debug\DataBase Work.pdb
+C:\Users\myronchuk-oo\documents\visual studio 2015\Projects\DataBase Work\DataBase Work\bin\Debug\Newtonsoft.Json.dll
+C:\Users\myronchuk-oo\documents\visual studio 2015\Projects\DataBase Work\DataBase Work\bin\Debug\Newtonsoft.Json.xml
+C:\Users\myronchuk-oo\documents\visual studio 2015\Projects\DataBase Work\DataBase Work\obj\Debug\DataBase_Work.FormDataBaseSettings.resources
+C:\Users\myronchuk-oo\documents\visual studio 2015\Projects\DataBase Work\DataBase Work\obj\Debug\DataBase_Work.FormEditDataBases.resources
+C:\Users\myronchuk-oo\documents\visual studio 2015\Projects\DataBase Work\DataBase Work\obj\Debug\DataBase_Work.FormDataBaseWork.resources
+C:\Users\myronchuk-oo\documents\visual studio 2015\Projects\DataBase Work\DataBase Work\obj\Debug\DataBase_Work.Properties.Resources.resources
+C:\Users\myronchuk-oo\documents\visual studio 2015\Projects\DataBase Work\DataBase Work\obj\Debug\DataBase Work.csproj.GenerateResource.Cache
+C:\Users\myronchuk-oo\documents\visual studio 2015\Projects\DataBase Work\DataBase Work\obj\Debug\DataBase Work.exe
+C:\Users\myronchuk-oo\documents\visual studio 2015\Projects\DataBase Work\DataBase Work\obj\Debug\DataBase Work.pdb
+C:\Users\myronchuk-oo\documents\visual studio 2015\Projects\DataBase Work\DataBase Work\obj\Debug\DataBase Work.csprojResolveAssemblyReference.cache
+C:\Users\myronchuk-oo\Documents\Visual Studio 2015\Projects\DataBase Work\DataBase Work\obj\Debug\DataBase_Work.nsHistory.FormHistory.resources
+C:\Users\myronchuk-oo\Documents\Visual Studio 2015\Projects\DataBase Work\DataBase Work\obj\Debug\DataBase_Work.Utility.SaveFile.resources
+C:\Users\myronchuk-oo\Documents\Visual Studio 2015\Projects\DataBase Work\DataBase Work\obj\Debug\DataBase_Work.Utility.Console.resources
